@@ -1,0 +1,7 @@
+name: pangolin-simple
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pangolin=4.1.3
